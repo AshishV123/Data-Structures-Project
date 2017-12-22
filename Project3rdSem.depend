@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480486982 source:e:\programming\project3rdsem\untitled1.c
+
+1480487277 source:e:\programming\project3rdsem\main.c
+	<stdio.h>
+	"H13.h"
+
+1480487666 e:\programming\project3rdsem\h13.h
+	<stdio.h>
+	<stdlib.h>
+
